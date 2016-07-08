@@ -1,6 +1,5 @@
 nginx.conf
 ======
-###nginx.conf
 * 심링크 만들기
 ```
 sudo ln -sf "$PWD/nginx.conf" /etc/nginx/nignx.conf
